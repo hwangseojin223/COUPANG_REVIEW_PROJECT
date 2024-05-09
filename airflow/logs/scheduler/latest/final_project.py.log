@@ -1,7 +1,0 @@
-[2024-02-06 17:52:39,502] {processor.py:163} INFO - Started process (PID=26947) to work on /home/lab04/study/dag/final_project.py
-[2024-02-06 17:52:39,503] {processor.py:642} INFO - Processing file /home/lab04/study/dag/final_project.py for tasks to queue
-[2024-02-06 17:52:39,503] {logging_mixin.py:109} INFO - [2024-02-06 17:52:39,503] {dagbag.py:500} INFO - Filling up the DagBag from /home/lab04/study/dag/final_project.py
-[2024-02-06 17:52:39,602] {processor.py:652} INFO - DAG(s) dict_keys(['new_review']) retrieved from /home/lab04/study/dag/final_project.py
-[2024-02-06 17:52:39,613] {logging_mixin.py:109} INFO - [2024-02-06 17:52:39,613] {dag.py:2398} INFO - Sync 1 DAGs
-[2024-02-06 17:52:39,627] {logging_mixin.py:109} INFO - [2024-02-06 17:52:39,627] {dag.py:2937} INFO - Setting next_dagrun for new_review to 2024-02-05T00:00:00+00:00
-[2024-02-06 17:52:39,709] {processor.py:171} INFO - Processing /home/lab04/study/dag/final_project.py took 0.209 seconds
