@@ -1,3 +1,4 @@
 study*.py filter=lfs diff=lfs merge=lfs -text
 note/*.csv filter=lfs diff=lfs merge=lfs -text
 note/*.ipynb filter=lfs diff=lfs merge=lfs -text
+mysql_workbench/*.mwb filter=lfs diff=lfs merge=lfs -text
